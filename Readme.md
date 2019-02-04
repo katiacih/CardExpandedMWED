@@ -1,5 +1,8 @@
 ## Description
 Reusable card components
+
+![screenshot](screenshot.jpg)
+![screenshot2](screenshot2.jpg)
 ## **Components**
 
 * CardDefault
@@ -35,20 +38,36 @@ Reusable card components
 * onPressRightButton()  
 	* type: function()
 
+
+**CardShop**
+
+* value
+  * type: number 
+* price
+  * type: float
+* onPressMore()  
+	* type: function()
+* setplusValue()  
+	* type: function()
+* setminusValue()  
+	* type: function()
+
+
 # Example
 **Simple**
+// in parent
 ```javascript
 <CardDefault title='titleCard' bgTextColor='black' />
 ```
 
-**Card with Button**
+**Card with Buttons**
 ```javascript
 // in parent
 <CardWithButton onPressEvent = {()=> this.onPressCardComponent( 
   'pressed CardWithButton') } 
 />
 ```
-**Card with two Button**
+**Card with two Buttons**
 ```javascript
 // in parent
 <CardWithTwoButton
