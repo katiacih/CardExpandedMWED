@@ -4,9 +4,9 @@ Reusable card components
 
   
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.jpg | width=100)
 
-![screenshot2](screenshot2.jpg)
+![screenshot2](screenshot2.jpg | width=100)
 
 ## **Components**
 
