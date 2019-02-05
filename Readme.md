@@ -4,9 +4,12 @@ Reusable card components
 
   
 
-![screenshot](screenshot.jpg | width=100)
+* Basics Cards
+<img src= "screenshot.jpg" alt="Basics Cards" width="375" height="667" />
 
-![screenshot2](screenshot2.jpg | width=100)
+* CardShop
+
+<img src= "screenshot2.jpg" alt="Card Shop"  width="375" height="667" />
 
 ## **Components**
 
